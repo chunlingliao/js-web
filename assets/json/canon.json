@@ -1,0 +1,32 @@
+{
+  "canon_data": [
+    {
+      "name": "Canon",
+      "content": [{
+        "name": "Canon",
+        "list": [
+          {
+            "name": "Canon M200黑",
+            "url": "https://24h.pchome.com.tw/prod/DGBQ3L-A900AKQOC?fq=/S/DGBQ57"
+          },
+          {
+            "name": "Canon EOS M50",
+            "url": "https://24h.pchome.com.tw/prod/DGBQ3V-A9008VXQP?fq=/S/DGBQ3V"
+          },
+          {
+            "name": "Canon EF-M人像鏡",
+            "url": "https://24h.pchome.com.tw/prod/DGBS13-A9009JJRN?fq=/S/DGBS68"
+          },
+          {
+            "name": "全片幅旗艦機",
+            "url": "https://24h.pchome.com.tw/prod/DGBCAE-A900AT4JS?fq=/S/DGBCAE"
+          },
+          {
+            "name": "大光圈人像",
+            "url": "https://24h.pchome.com.tw/prod/DGBH07-A49171468?fq=/S/DGBC95"
+          }
+        ]
+      }]
+    }
+  ]
+}

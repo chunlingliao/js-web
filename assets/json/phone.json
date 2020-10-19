@@ -1,0 +1,127 @@
+{
+  "phone_data": [
+    {
+      "name": "全部",
+      "content": []
+    },
+    {
+      "name": "iphone",
+      "content": [{
+        "name": "iphone",
+        "list": [
+          {
+            "name" : "iPhone11-黑色",
+            "url" : "https://24h.pchome.com.tw/prod/DYAJ95-A900A98GA?fq=/S/DYAJ95",
+            "urlManage" : "https://24h.pchome.com.tw/prod/DYAJ95-A900A98GA?fq=/S/DYAJ95"
+          },
+          {
+            "name" : "iPhoneSE-白色",
+            "url" : "https://24h.pchome.com.tw/prod/DYAJ8L-A900AM3L0?fq=/S/DYAJ8L",
+            "urlManage" : "https://24h.pchome.com.tw/prod/DYAJ8L-A900AM3L0?fq=/S/DYAJ8L"
+          },
+          {
+            "name" : "iPhone12-藍色",
+            "url" : "https://24h.pchome.com.tw/prod/DYAJ2Y-A900AX71Y?fq=/S/DYAJ2Y",
+            "urlManage" : "https://24h.pchome.com.tw/prod/DYAJ2Y-A900AX71Y?fq=/S/DYAJ2Y"
+          },
+          {
+            "name" : "iPhone11 pro",
+            "url" : "https://24h.pchome.com.tw/store/DYAJFT",
+            "urlManage" : "https://24h.pchome.com.tw/store/DYAJFT"
+          }
+        ]
+      }]
+    },
+    {
+      "name": "Samsung",
+      "content": [{
+        "name": "Samsung",
+        "list": [
+          {
+            "name" : "Note20",
+            "url" : "https://24h.pchome.com.tw/prod/DYALB7-1900AWFSU?fq=/S/DYALB7",
+            "urlManage" : "https://24h.pchome.com.tw/prod/DYALB7-1900AWFSU?fq=/S/DYALB7"
+          },
+          {
+            "name" : "Note10",
+            "url" : "https://24h.pchome.com.tw/prod/DYAL9Q-A900AVWE7?fq=/S/DYAL9Q",
+            "urlManage" : "https://24h.pchome.com.tw/prod/DYAL9Q-A900AVWE7?fq=/S/DYAL9Q"
+          },
+          {
+            "name" : "S20 FE",
+            "url" : "https://24h.pchome.com.tw/prod/DYALCZ-A900AW54G?fq=/S/DYALCZ",
+            "urlManage" : "https://24h.pchome.com.tw/prod/DYALCZ-A900AW54G?fq=/S/DYALCZ"
+          },
+          {
+            "name" : "Galaxy A51",
+            "url" : "https://24h.pchome.com.tw/prod/DYALAY-A900ASUBA?fq=/S/DYALAY",
+            "urlManage" : "https://24h.pchome.com.tw/prod/DYALAY-A900ASUBA?fq=/S/DYALAY"
+          }
+        ]
+      }]
+    },
+    {
+      "name": "Pixel",
+      "content": [{
+        "name": "Pixel",
+        "list": [
+          {
+            "name" : "Pixel 4a黑",
+            "url" : "https://24h.pchome.com.tw/prod/DYAC73-A900ASLL5",
+            "urlManage" : "https://24h.pchome.com.tw/prod/DYAC73-A900ASLL5"
+          },
+          {
+            "name" : "Pixel 5-綠",
+            "url" : "https://24h.pchome.com.tw/prod/DYAC7H-A900AVIA5?fq=/S/DYAT0M",
+            "urlManage" : "https://24h.pchome.com.tw/prod/DYAC7H-A900AVIA5?fq=/S/DYAT0M"
+          }
+        ]
+      }]
+    },
+    {
+      "name": "SONY",
+      "content": [{
+        "name": "SONY",
+        "list": [
+          {
+            "name": "SONY Xperia1",
+            "url": "https://24h.pchome.com.tw/prod/DYAGHU-A900ARJ3M?fq=/S/DYAGHU",
+            "urlManage": "https://24h.pchome.com.tw/prod/DYAGHU-A900ARJ3M?fq=/S/DYAGHU"
+          },
+          {
+            "name": "Xperia C",
+            "url": "https://24h.pchome.com.tw/store/DYAGB2",
+            "urlManage": "https://24h.pchome.com.tw/store/DYAGB2"
+          },
+          {
+            "name": "SONY Xperia10",
+            "url": "https://24h.pchome.com.tw/store/DYAGHQ",
+            "urlManage": "https://24h.pchome.com.tw/store/DYAGHQ"
+          }
+        ]
+      }]
+    }
+  ],
+  "phone_popular": [
+    {
+      "name" : "i12藍色",
+      "url" : "https://24h.pchome.com.tw/prod/DYAJ2Y-A900AX71Y?fq=/S/DYAJ2Y",
+      "urlManage" : "https://24h.pchome.com.tw/prod/DYAJ2Y-A900AX71Y?fq=/S/DYAJ2Y"
+    },
+    {
+      "name" : "i11pro",
+      "url" : "https://24h.pchome.com.tw/store/DYAJFT",
+      "urlManage" : "https://24h.pchome.com.tw/store/DYAJFT"
+    },
+    {
+      "name": "Xperia C",
+      "url": "https://24h.pchome.com.tw/store/DYAGB2",
+      "urlManage": "https://24h.pchome.com.tw/store/DYAGB2"
+    },
+    {
+      "name" : "S20 FE",
+      "url" : "https://24h.pchome.com.tw/prod/DYALCZ-A900AW54G?fq=/S/DYALCZ",
+      "urlManage" : "https://24h.pchome.com.tw/prod/DYALCZ-A900AW54G?fq=/S/DYALCZ"
+    }
+  ]
+}

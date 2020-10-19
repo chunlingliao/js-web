@@ -1,0 +1,94 @@
+{
+  "electrical_data": [
+    {
+      "name": "洗衣機",
+      "content": [
+        {
+          "name": "洗衣機",
+          "list": [
+            {
+              "name": "直立洗衣機",
+              "url": "https://24h.pchome.com.tw/prod/DPAI1H-A900AM7DH?fq=/S/DPAI1H"
+            },
+            {
+              "name": "窄身雙科技",
+              "url": "https://24h.pchome.com.tw/prod/DPAI1H-A900AM79U"
+            },
+            {
+              "name": "大容量變頻",
+              "url": "https://24h.pchome.com.tw/prod/DPAI1K-A9009QHGM"
+            },
+            {
+              "name": "躍動式風乾",
+              "url": "https://24h.pchome.com.tw/prod/DPAI1K-A900AKZHY"
+            },
+            {
+              "name": "洗脫烘滾筒",
+              "url": "https://24h.pchome.com.tw/prod/DPAI1H-A900AMJJK?fq=/S/DPAIE2"
+            },
+            {
+              "name": "迷你洗衣機",
+              "url": "https://24h.pchome.com.tw/prod/DPAI4B-A900AEXYP?fq=/S/DPAI3Y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "冰箱",
+      "content": [
+        {
+          "name": "冰箱",
+          "list": [
+            {
+              "name": "智慧變頻雙門冰箱",
+              "url": "https://24h.pchome.com.tw/prod/DPAC05-A900A3JSD"
+            },
+            {
+              "name": "單門冰箱",
+              "url": "https://24h.pchome.com.tw/prod/DPAC05-A9008VZVP"
+            },
+            {
+              "name": "敲敲看門中門",
+              "url": "https://24h.pchome.com.tw/prod/DPAC05-A900A7TRD?fq=/S/DPAK0E"
+            },
+            {
+              "name": "直驅變頻上下門",
+              "url": "https://24h.pchome.com.tw/prod/DPAC05-A9009O6NN?fq=/S/DPAK1W"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "清淨除濕",
+      "content": [
+        {
+          "name": "清淨除濕",
+          "list": [
+            {
+              "name": "變頻除濕機",
+              "url": "https://24h.pchome.com.tw/prod/DMAU2K-A900A5L9I?fq=/S/DPAK1Q"
+            },
+            {
+              "name": "清淨型除濕機",
+              "url": "https://24h.pchome.com.tw/prod/DMAU0E-A900AEGVV"
+            },
+            {
+              "name": "時尚美型節能除濕機",
+              "url": "https://24h.pchome.com.tw/prod/QBAN0E-A9008Q3AF?fq=/S/DMAU2K"
+            },
+            {
+              "name": "省電型清淨除濕機",
+              "url": "https://24h.pchome.com.tw/prod/QBAN0C-A900AOXRB?fq=/S/DMAU0J"
+            },
+            {
+              "name": "抗菌空氣清淨機",
+              "url": "https://24h.pchome.com.tw/prod/DMAU6J-A900AUGBR?fq=/S/DMAU65"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

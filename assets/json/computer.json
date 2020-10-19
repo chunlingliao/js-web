@@ -1,0 +1,260 @@
+{
+  "computer_data": [
+    {
+      "name": "全部",
+      "content": []
+    },
+    {
+      "name": "ASUS",
+      "content": [
+        {
+          "name": "ASUS",
+          "list": [
+            {
+              "name": "冰河藍14吋",
+              "url": "https://24h.pchome.com.tw/prod/DHAX95-1900AQIVR?q=/S/DHAX95"
+            },
+            {
+              "name": "ZenBookUX431FL",
+              "url": "https://24h.pchome.com.tw/prod/DHAX95-A900AO7C8"
+            },
+            {
+              "name": "體積最小13吋",
+              "url": "https://24h.pchome.com.tw/prod/DHAX94-1900AR0ED"
+            },
+            {
+              "name": "最薄配備I/O連接埠",
+              "url": "https://24h.pchome.com.tw/prod/DHAX97-A900AQ21N?fq=/S/DHAXA3"
+            },
+            {
+              "name": "四面窄邊軸承設計",
+              "url": "https://24h.pchome.com.tw/prod/DHAFI3-A9009VBYB?fq=/S/DHAX95"
+            },
+            {
+              "name": "UX534FTC冰柱銀",
+              "url": "https://24h.pchome.com.tw/prod/DHAFJ8-A900ABR6P?fq=/S/DHAX92t"
+            },
+            {
+              "name": "★17小時續航",
+              "url": "https://24h.pchome.com.tw/prod/DHAFJ8-A900ABR5Q"
+            },
+            {
+              "name": "1T外接硬碟 超值組",
+              "url": "https://24h.pchome.com.tw/prod/DHAX95-1900AOL6S?fq=/S/DHAX95"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Apple",
+      "content": [
+        {
+          "name": "Apple",
+          "list": [
+            {
+              "name": "MacBook Air13 金色",
+              "url": "https://24h.pchome.com.tw/prod/DYAJEX-1900AOLWE?fq=/S/DYAJEX"
+            },
+            {
+              "name": "MacBook Pro13 灰色",
+              "url": "https://24h.pchome.com.tw/prod/DYAJCS-1900AQM6T"
+            },
+            {
+              "name": "Mac mini 3.2GHz",
+              "url": "https://24h.pchome.com.tw/prod/DYAJER-A900AMTAS?fq=/S/DYAJC2"
+            },
+            {
+              "name": "iMac 27",
+              "url": "https://24h.pchome.com.tw/prod/DYAJFC-A900ASXMF?fq=/S/DYAJFD"
+            },
+            {
+              "name": "2020全新特製機",
+              "url": "https://24h.pchome.com.tw/prod/DYAJER-A900AMTAQ?fq=/S/DYAJEQ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MSI微星",
+      "content": [
+        {
+          "name": "MSI微星",
+          "list": [
+            {
+              "name": "電競筆電",
+              "url": "https://24h.pchome.com.tw/prod/DHAK5U-A900AUQ7I?fq=/S/DHAK8B"
+            },
+            {
+              "name": "MSI微星GE66",
+              "url": "https://24h.pchome.com.tw/prod/DHAK5S-A900AQTGX?fq=/S/DHAK8Q"
+            },
+            {
+              "name": "Modern 15",
+              "url": "https://24h.pchome.com.tw/prod/DHAK89-A900AUHDP?fq=/S/DHAK82"
+            },
+            {
+              "name": "Creator 17",
+              "url": "https://24h.pchome.com.tw/prod/DHAK5V-A900ASPKX?fq=/S/DHAK7Z"
+            },
+            {
+              "name": "RTX2060獨顯6G",
+              "url": "https://24h.pchome.com.tw/prod/DHAK5R-A900A7R1K?fq=/S/DHAK6P"
+            },
+            {
+              "name": "15吋電競筆電",
+              "url": "https://24h.pchome.com.tw/prod/DHAK8I-A900AUH1J?fq=/S/DHAK77"
+            },
+            {
+              "name": "輕薄創作者",
+              "url": "https://24h.pchome.com.tw/prod/DHAK8A-A900AW63L?fq=/S/DHAK82/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Acer",
+      "content": [
+        {
+          "name": "Acer",
+          "list": [
+            {
+              "name": "Acer TravelMate",
+              "url": "https://24h.pchome.com.tw/prod/DHAEEM-1900AS7Z6?fq=/S/DHAEGL"
+            },
+            {
+              "name": "2020必備款",
+              "url": "https://24h.pchome.com.tw/prod/DHAEFK-A900AJOSN?fq=/S/DHAEFQ"
+            },
+            {
+              "name": "14吋輕薄窄邊筆電",
+              "url": "https://24h.pchome.com.tw/prod/DHAEDE-1900AWHR7?fq=/S/DHAEGO"
+            },
+            {
+              "name": "金屬機身更輕薄",
+              "url": "https://24h.pchome.com.tw/prod/DHAEC9-1900AI6U1?fq=/S/DHAEEA"
+            },
+            {
+              "name": "尾盤狂降6千",
+              "url": "https://24h.pchome.com.tw/prod/DHAEBH-1900AOL4I?fq=/S/DHAEAQ"
+            },
+            {
+              "name": "輕薄窄邊▼高CP值",
+              "url": "https://24h.pchome.com.tw/prod/DHAEBP-A900ALG64?fq=/S/DHAEGJ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DELL",
+      "content": [
+        {
+          "name": "DELL",
+          "list": [
+            {
+              "name": "DELL Latitude",
+              "url": "https://24h.pchome.com.tw/prod/DHAI6J-A900A7903?fq=/S/DHAI79"
+            },
+            {
+              "name": "DELL XPS",
+              "url": "https://24h.pchome.com.tw/prod/DHAI34-A900ARVXK?fq=/S/DHAI4Q"
+            },
+            {
+              "name": "最強電競隊友",
+              "url": "https://24h.pchome.com.tw/prod/DHAI68-A900ATTDB?fq=/S/DHAI68"
+            },
+            {
+              "name": "商務輕薄機",
+              "url": "https://24h.pchome.com.tw/prod/DHAI3D-A900AQ3E9?fq=/S/DHAI4M"
+            },
+            {
+              "name": "DELL Inspiron",
+              "url": "https://24h.pchome.com.tw/prod/DHAI6P-A900AQ3D8?fq=/S/DHAI6P"
+            },
+            {
+              "name": "輕巧便攜黑科技",
+              "url": "https://24h.pchome.com.tw/prod/DHAI5G-A900A1SMY?fq=/S/DHAI6C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HP",
+      "content": [
+        {
+          "name": "HP",
+          "list": [
+            {
+              "name": "HP ENVY",
+              "url": "https://24h.pchome.com.tw/prod/DHAG8N-1900AU1B1"
+            },
+            {
+              "name": "HP ProBook",
+              "url": "https://24h.pchome.com.tw/prod/DHAG7K-A900ASSPS?fq=/S/DHAGAQ"
+            },
+            {
+              "name": "霧面觸控專區",
+              "url": "https://24h.pchome.com.tw/store/DHAG9U"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lenovo",
+      "content": [
+        {
+          "name": "Lenovo",
+          "list": [
+            {
+              "name": "L340 Gaming",
+              "url": "https://24h.pchome.com.tw/prod/DHBA0V-1900AU1U4?fq=/S/DHBA0V"
+            },
+            {
+              "name": "Legion 5i 幻影黑",
+              "url": "https://24h.pchome.com.tw/prod/DHBA40-1900AOQ13?fq=/S/DHBA4E"
+            },
+            {
+              "name": "窄邊電競筆電",
+              "url": "https://24h.pchome.com.tw/prod/DHBA40-A900AQ1NZ?fq=/S/DHBA3I"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "computer_popular": [
+    {
+      "name": "DELL XPS",
+      "url": "https://24h.pchome.com.tw/prod/DHAI34-A900ARVXK?fq=/S/DHAI4Q"
+    },
+    {
+      "name": "窄邊電競筆電",
+      "url": "https://24h.pchome.com.tw/prod/DHBA40-A900AQ1NZ?fq=/S/DHBA3I"
+    },
+    {
+      "name": "2020必備款",
+      "url": "https://24h.pchome.com.tw/prod/DHAEFK-A900AJOSN?fq=/S/DHAEFQ"
+    },
+    {
+      "name": "15吋電競筆電",
+      "url": "https://24h.pchome.com.tw/prod/DHAK8I-A900AUH1J?fq=/S/DHAK77"
+    },
+    {
+      "name": "輕薄創作者",
+      "url": "https://24h.pchome.com.tw/prod/DHAK8A-A900AW63L?fq=/S/DHAK82/"
+    },
+    {
+      "name": "體積最小13吋",
+      "url": "https://24h.pchome.com.tw/prod/DHAX94-1900AR0ED"
+    },
+    {
+      "name": "HP ENVY",
+      "url": "https://24h.pchome.com.tw/prod/DHAG8N-1900AU1B1"
+    }
+  ]
+}

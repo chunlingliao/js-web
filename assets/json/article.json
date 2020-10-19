@@ -1,0 +1,93 @@
+{
+  "article_data": [
+    {
+      "name": "電腦架",
+      "content": [{
+        "name": "電腦架",
+        "list": [
+          {
+            "name": "螢幕收納架",
+            "url": "https://24h.pchome.com.tw/prod/DCBB03-A900609C5",
+            "urlManage": "https://24h.pchome.com.tw/prod/DCBB03-A900609C5"
+          },
+          {
+            "name": "壓克力收納",
+            "url": "https://24h.pchome.com.tw/prod/DSAB14-A46810894?fq=/S/DCBB04",
+            "urlManage": "https://24h.pchome.com.tw/prod/DSAB14-A46810894?fq=/S/DCBB04"
+          },
+          {
+            "name": "可調式置物架",
+            "url": "https://24h.pchome.com.tw/prod/DCBB1V-A9005160F?fq=/S/DCBB4O",
+            "urlManage": "https://24h.pchome.com.tw/prod/DCBB1V-A9005160F?fq=/S/DCBB4O"
+          }
+        ]
+      }]
+    },
+    {
+      "name": "滑鼠架",
+      "content": [{
+        "name": "滑鼠架",
+        "list": [
+          {
+            "name": "鋁合金支撐架",
+            "url": "https://24h.pchome.com.tw/prod/DSAC65-A47184848?fq=/S/DCBB0B",
+            "urlManage": "https://24h.pchome.com.tw/prod/DSAC65-A47184848?fq=/S/DCBB0B"
+          },
+          {
+            "name": "豪華護手臂",
+            "url": "https://24h.pchome.com.tw/prod/DGAQ08-A41822593?fq=/S/DCBB0B",
+            "urlManage": "https://24h.pchome.com.tw/prod/DGAQ08-A41822593?fq=/S/DCBB0B"
+          },
+          {
+            "name": "真皮手臂支撐架",
+            "url": "https://24h.pchome.com.tw/prod/DEBH0G-A84194947?fq=/S/DCBB0B",
+            "urlManage": "https://24h.pchome.com.tw/prod/DEBH0G-A84194947?fq=/S/DCBB0B"
+          },
+          {
+            "name": "辦公必備軟墊",
+            "url": "https://24h.pchome.com.tw/prod/DCBB0B-A900A2LU8",
+            "urlManage": "https://24h.pchome.com.tw/prod/DCBB0B-A900A2LU8"
+          }
+        ]
+      }]
+    },
+    {
+      "name": "其他",
+      "content": [{
+        "name": "其他",
+        "list": [
+          {
+            "name": "滑輪主機架",
+            "url": "https://24h.pchome.com.tw/prod/DCBB0A-A900AJ7AK?fq=/S/DCBB0A",
+            "urlManage": "https://24h.pchome.com.tw/prod/DCBB0A-A900AJ7AK?fq=/S/DCBB0A"
+          },
+          {
+            "name": "X旋轉移動主機架",
+            "url": "https://24h.pchome.com.tw/prod/DSAC65-A47185786",
+            "urlManage": "https://24h.pchome.com.tw/prod/DSAC65-A47185786"
+          },
+          {
+            "name": "鍵盤收納架",
+            "url": "https://24h.pchome.com.tw/prod/DCBB06-A900ANSTT?fq=/S/DCBB09",
+            "urlManage": "https://24h.pchome.com.tw/prod/DCBB06-A900ANSTT?fq=/S/DCBB09"
+          },
+          {
+            "name": "手機架",
+            "url": "https://24h.pchome.com.tw/prod/DCBB0C-A9008UE9X?fq=/S/DCBB7S",
+            "urlManage": "https://24h.pchome.com.tw/prod/DCBB0C-A9008UE9X?fq=/S/DCBB7S"
+          },
+          {
+            "name": "和室電腦桌",
+            "url": "https://24h.pchome.com.tw/prod/DCAK00-A57255312?fq=/S/DCBB40",
+            "urlManage": "https://24h.pchome.com.tw/prod/DCAK00-A57255312?fq=/S/DCBB40"
+          },
+          {
+            "name": "筆電散熱墊",
+            "url": "https://24h.pchome.com.tw/prod/DCBB7J-A900AFHF8?fq=/S/DCBB8I",
+            "urlManage": "https://24h.pchome.com.tw/prod/DCBB7J-A900AFHF8?fq=/S/DCBB8I"
+          }
+        ]
+      }]
+    }
+  ]
+}

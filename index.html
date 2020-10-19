@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>3C商城</title>
+    <meta name="keywords" content="電腦,iphone,電腦週邊,購物">
+    <meta name="description"
+        content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- ico -->
+    <link rel="shortcut icon" href="assets/images/seoimg/favicon.ico">
+    <link rel='apple-touch-icon' , href='assets/images/seoimg/touch-icon-iphone.png'>
+    <link rel='apple-touch-icon' , sizes='120x120' , href='assets/images/seoimg/touch-icon-ipad.png'>
+    <link rel='apple-touch-icon' , sizes='152x152' , href='assets/images/seoimg/touch-icon-ipad-retina.png'>
+    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/swiper.min.css">
+    <link rel="stylesheet" href="assets/css/select2.min.css">
+    <link rel="stylesheet" href="assets/css/iconfont.css">
+</head>
+<style></style>
+<script>
+	const array1 = ['http://127.0.0.1:880/index.html']
+	let host= window.location.hostname;
+	console.log('host:',host)
+	var phone_tag = (array1.includes(host)) ? true : false
+	console.log('>',phone_tag)
+</script>
+
+
+<body>
+    <div class="page">
+        <header class="header">
+            <div class="nav-wrapper">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <a class="navbar-brand" href="#"><img src="assets/images/logo.png" alt=""></a>
+                    <ul class="nav mr-lg-auto">
+                        <li class="navbar-item" id="service">
+                            <a class="nav-link header-nav" href="#"
+                                target="_blank">
+                                <span class="iconfont iconservice-o text-white"></span>
+                                <span class="nav-item-active">聯絡我們</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <!-- 搜尋 -->
+                    <div class="search-wrap">
+                        <select class="search">
+                            <option selected="selected"></option>
+                        </select>
+                    </div>
+                    <div class="service">
+                        <a href="https://tawk.to/chat/5a5ece2fd7591465c706d1fd/default" target="_blank">
+                            <span class="iconfont iconservice-o text-white"></span>
+                        </a>
+                    </div>  
+                </nav>
+            </div>
+        </header>
+        <div class="wrap-container">
+            <section class="banner-wrap container-fluid">
+                <div class="row no-gutters">
+                    <div class="order-lg-1 order-0 bnr-wrap col-lg-5">
+                        <div class="swiper-container" id="banner">
+                            <div class="swiper-wrapper" id="owl-demo">
+                                <!-- banner img -->
+                            </div>
+                            <div class="swiper-button-next"></div>
+                            <div class="swiper-button-prev"></div>
+                        </div>
+                    </div>
+                    <div class="pulse-button d-lg-none">
+                        <div class="collapse-ad">展開廣告</div>
+                        <div class="arrow">
+                            <span class="iconfont icon-jiantouxia icon"></span>
+                        </div>
+                    </div>
+                    <div class="order-lg-0 order-1 bnr-wrap ad col-lg display-none">
+                        <div class="bnr-item-wrap row no-gutters firstAd">
+                            <!-- b區1~6 小廣告圖 -->
+                        </div>
+                    </div>
+                    <div class="order-lg-2 order-2 bnr-wrap ad col-lg display-none">
+                        <div class="bnr-item-wrap row no-gutters subAd">
+                            <!-- b區7~12 小廣告圖 -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- 下方內容 -->
+            <section class="content-wrap container">
+                <div class="row no-gutters">
+                    <div class="order-lg-0 order-1 col-lg-2 col-md-12 d-flex flex-column-reverse flex-lg-column">
+                        <div class="popular-wrap">
+                            <div class="popular-title">熱門推薦</div>
+                            <div class="popular-list">
+                                <!-- 熱門推薦列表 -->
+                            </div>
+                        </div>
+                        <div class="e-ad-wrap ad display-none">
+                            <div class="e-ad-item">
+                                <a href="#" target="_blank"><img
+                                src="assets/images/e/bigad06.png" alt=""></a>
+                            </div>
+                            <div class="e-ad-item">
+                                <a href="#" target="_blank"><img
+                                src="assets/images/e/bigad02.png" alt=""></a>
+                            </div>
+                            <div class="e-ad-item">
+                                <a href="#" target="_blank"><img
+                                src="assets/images/e/bigad03.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="order-lg-1 order-2 col-lg-8 col-md-12">
+                        <div class="tab-wrap">
+                            <div class="nav-wrap swiper-container">
+                                <div class="swiper-wrapper">
+                                    <div class="nav-item swiper-slide"
+                                        onclick="initPage('computer');initPopular('computerPopular')"><a href="#0">個人電腦</a>
+                                    </div>
+                                    <div class="nav-item swiper-slide"
+                                        onclick="initPage('phone');initPopular('phonePopular')"><a href="#1">通訊手機</a>
+                                    </div>
+                                    <div class="nav-item swiper-slide" onclick="initPage('article');initPopular()"><a
+                                        href="#2">電腦週邊</a>
+                                    </div>
+                                    <div class="nav-item swiper-slide" onclick="initPage('canon');initPopular()"><a
+                                        href="#3">數位影像</a>
+                                    </div>
+                                    <div class="nav-item swiper-slide" onclick="initPage('electrical');initPopular()">
+                                        <a href="#4">大家電</a>
+                                    </div>
+                                </div>
+                                <div class="swiper-button-prev"></div>
+                                <div class="swiper-button-next"></div>
+                            </div>
+                            <div class="tab-item">
+                                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                    <!-- 各類別tab -->
+                                </ul>
+                                <div class="tab-content" id="myTabContent">
+                                    <!-- 各大類別內容 -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="order-lg-2 order-0 col-lg-2 col-md-12">
+                        <div class="e-ad-wrap ad display-none">
+                            <div class="e-ad-item">
+                                <a href="#" target="_blank"><img
+                                src="assets/images/e/bigad01.png" alt=""></a>
+                            </div>
+                            <div class="e-ad-item">
+                                <a href="#" target="_blank"><img
+                                src="assets/images/e/bigad05.png" alt=""></a>
+                            </div>
+                            <div class="e-ad-item">
+                                <a href="#" target="_blank"><img
+                                src="assets/images/e/bigad04.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <footer class="footer pb-3 pt-3">
+							<div class="text-center footer-text">© 2020 3C電子通訊購物網</div>
+            </footer>
+            <a href="#" class="toTop" title="GoTop" style="display: inline;"><span></span></a>
+</body>
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/swiper.min.js"></script>
+<script src="assets/js/select2.min.js"></script>
+<script src="assets/js/main.js"></script>
+</html>
